@@ -364,3 +364,6 @@ FodyWeavers.xsd
 /Usuarios.db
 /Usuarios.db-shm
 /Usuarios.db-wal
+/Usuarios.db
+/Usuarios.db-shm
+/Usuarios.db-wal

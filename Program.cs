@@ -119,6 +119,7 @@ using (var scope = app.Services.GetRequiredService<IServiceScopeFactory>().Creat
 }
 
 // Configure the HTTP request pipeline.
+
 app.UseHttpsRedirection();
 
 app.UseAuthentication();
